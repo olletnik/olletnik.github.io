@@ -1,0 +1,12 @@
+<svg width="220" height="48" viewBox="0 0 220 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kintelloGradient" x1="0" y1="0" x2="220" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2185D7"/>
+      <stop offset="0.4" stop-color="#24BFB1"/>
+      <stop offset="1" stop-color="#33DC97"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="46" height="46" rx="12" fill="url(#kintelloGradient)"/>
+  <path d="M14 32V16H19V23L27 16H33L24.5 23.7L33.5 32H27.2L19 24.4V32H14Z" fill="white"/>
+  <text x="58" y="31" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="0.2">Kintello</text>
+</svg>

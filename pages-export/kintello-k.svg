@@ -1,0 +1,11 @@
+<svg width="424" height="391" viewBox="45 54 472 392" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kintelloKGradient" x1="400.177" y1="54.2705" x2="148.341" y2="393.008" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B7E052"/>
+      <stop offset="0.41" stop-color="#27DE9C"/>
+      <stop offset="0.73" stop-color="#1C79E0"/>
+      <stop offset="1" stop-color="#38A0BD"/>
+    </linearGradient>
+  </defs>
+  <path d="M121.208 348.425L52.29 250L121.208 151.575V54.27H258.432V152.012L189.82 250L258.432 347.988V445.73H121.208V348.425ZM367.621 445.73L230.57 250L367.621 54.27H516.311L379.259 250L516.311 445.73H367.621Z" fill="url(#kintelloKGradient)"/>
+</svg>
